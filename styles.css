@@ -1,0 +1,66 @@
+.header {
+    background: black;
+    padding: 50px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    text-shadow: 6px 2px 6px orange;
+}
+
+.question1 {
+    background-color: lightblue;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    font-size: 20px;
+}
+
+.question2 {
+    background-color: lightblue;
+    padding-bottom: 10px;
+    padding-left: 5px;
+}
+
+.question3 {
+    background-color: lightblue;
+    padding-bottom: 10px;
+    padding-left: 5px;
+}
+
+#number {
+    color: blue;
+}
+
+#year {
+    color: blue;
+}
+
+#month {
+    color: blue;
+}
+
+#day {
+    color: blue;
+}
+
+#horoscope {
+    color: blue;
+}
+
+.question2 {
+    display: none;
+    font-size: 20px;
+}
+
+.question3 {
+    display: none;
+    font-size: 20px;
+}
+
+.ball {
+    display: none;
+    width: 300px;
+}
+
+.result {
+    font-size: 20px;
+}
